@@ -12,4 +12,4 @@ The R script, run_analysis.R, does the following:
 
 The end result is shown in the file tidy.txt.
 
-#You can download the dataset from :- https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+# You can download the dataset from :- https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
